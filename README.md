@@ -10,7 +10,7 @@ This projects requires *pandas*, *scikit-learn*, and *spacy* as libraries. You c
 
 `pip install pandas`
 
-2. For scikit-leanr
+2. For scikit-learn
 
 `pip install scikit-learn`
 
